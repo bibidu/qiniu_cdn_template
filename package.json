@@ -1,0 +1,23 @@
+{
+  "name": "qiniu_cdn_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibidu/qiniu_cdn_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibidu/qiniu_cdn_node/issues"
+  },
+  "homepage": "https://github.com/bibidu/qiniu_cdn_node#readme",
+  "dependencies": {
+    "qiniu": "^7.3.0"
+  }
+}
